@@ -1,0 +1,18 @@
+.card-body{
+    background-color: #fe5722;
+    border-radius: 25px; 
+    box-shadow: 7px 5px 5px rgb(92, 91, 91);
+}
+/* Button */
+.btn{
+    font-size: 20px; 
+    border-radius: 10px;
+    width: 40%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+.btn:hover{
+    background-color: #0a7396;
+    Color: white;
+}
